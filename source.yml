@@ -1,0 +1,5 @@
+name: serialization
+
+version_control:
+    - tools/state_serialization:
+        github: christian-rauch/state_serialization.git
